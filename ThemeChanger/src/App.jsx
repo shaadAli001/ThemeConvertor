@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      
+      <h1 className='p-4 bg-gray-600 text-center'>Theme Changer</h1>
     </>
   )
 }
